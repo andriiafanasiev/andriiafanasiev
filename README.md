@@ -1,7 +1,9 @@
 ### Hi there! 👋, my name is Andrii
 
 #### I'm a Front-end developer, passionate about the world of code and creative web applications.
-![Иллюстрация к проекту](https://github.com/andriiafanasiev/andriiafanasiev/raw/main/banner.png)
+<p align="center">
+ <img width="200px" src="banner.png" alt="qr"/>
+</p>
 
 🚀 **Skills:**
 - **React:** Crafting dynamic and powerful user interfaces.
