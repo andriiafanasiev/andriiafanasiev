@@ -2,7 +2,7 @@
 
 #### I'm a Front-end developer, passionate about the world of code and creative web applications.
 <p align="center">
- <img width="200px" src="banner.png" alt="qr"/>
+ <img src="banner.png" alt="banner"/>
 </p>
 
 🚀 **Skills:**
