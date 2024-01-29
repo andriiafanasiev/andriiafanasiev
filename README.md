@@ -23,8 +23,7 @@
 
 📫 **Get in touch:**
 - [Telegram](https://t.me/Andyxax): Let's connect and discuss exciting ideas!
-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>]      (https://github.com/andriiafanasiev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/pechenkoandrii/)  
-
+  
 🚀 **Goal:**
 - Striving for continuous improvement of my skills and creating web applications that inspire and enhance the user experience.
 
