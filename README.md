@@ -2,6 +2,7 @@
 
 #### I'm a Front-end developer, passionate about the world of code and creative web applications.
 ![Иллюстрация к проекту](https://github.com/andriiafanasiev/andriiafanasiev/raw/main/banner.png)
+
 🚀 **Skills:**
 - **React:** Crafting dynamic and powerful user interfaces.
 - **JavaScript:** Programming the language that brings web pages to life.
