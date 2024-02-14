@@ -31,5 +31,5 @@
 - Striving for continuous improvement of my skills and creating web applications that inspire and enhance the user experience.
 
 
-
+<a href="https://freelancehunt.com/freelancer/Andrii_afanasiev.html?from=shield&r=QWNLx" target="_blank"><img src="https://freelancehunt.com/shields/display/id/1485402/type/rating?style=for-the-badge&amp;lang=uk" alt="Freelancehunt — простий та чесний фриланс"></a>
 
