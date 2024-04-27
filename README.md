@@ -10,9 +10,7 @@
 - **JavaScript:** Programming the language that brings web pages to life.
 - **HTML/CSS:** Styling and structuring web applications.
 
-🌱 **Currently learning:**
-- **React:** Expanding my knowledge in React to build more complex and scalable applications.
-- **BEM:** Delving into the BEM methodology for cleaner and maintainable code.
+🌱 **Currently learning**
 
 🎨 **Approach to work:**
 - I love taking a creative approach to problem-solving and crafting interfaces that are not only functional but also aesthetically pleasing.
