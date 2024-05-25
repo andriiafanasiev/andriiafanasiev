@@ -15,10 +15,6 @@
 🎨 **Approach to work:**
 - I love taking a creative approach to problem-solving and crafting interfaces that are not only functional but also aesthetically pleasing.
 
-🌐 **Projects:**
-- [Takeaway-delivery](https://andriiafanasiev.github.io/Takeaway-delivery/): A food-store page with cart and adaptive design.
-- [Landify](https://andriiafanasiev.github.io/Landify/): Just beautiful landing page.
-
 📚 **Interests:**
 - Coding, of course! But also fascinated by new technologies and exploring user experience.
 
