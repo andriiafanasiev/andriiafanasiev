@@ -3,5 +3,6 @@
 #### I'm a Front-end developer, passionate about the world of code and creative web applications.
 
 🌱 **Currently learning**
+   **Working on a Octopus-Clicker project**
 
 
