@@ -4,6 +4,5 @@
 
 🌱 **Currently learning**
 
-   **Working on a Octopus-Clicker project**
 
 
