@@ -2,7 +2,7 @@
 
 ### Hi there! 👋 I'm Andrii
 
-#### Frontend Developer | Crafting Creative Web Experiences
+#### Frontend Developer 
 
 ---
 
@@ -14,7 +14,7 @@
 - **JavaScript & TypeScript** for interactivity and type safety
 - **React & React Router** for seamless, component-based applications
 
-🚀 Always looking for ways to improve, collaborate, and learn from the developer community. Thanks for stopping by!
+🚀 Always looking for ways to improve, collaborate, and learn from the developer community. 
 
 --- 
 
