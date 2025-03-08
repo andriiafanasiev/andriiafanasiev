@@ -1,9 +1,5 @@
 ---
-
-### Hi there! 👋 I'm Andrii
-
-#### Frontend Developer 
-
+### Hi there! 👋 I'm Andrii, Frontend Developer 
 ---
 
 🌱 **Learning:** Continuously expanding my skills to keep up with the latest in web development.
