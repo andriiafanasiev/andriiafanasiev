@@ -1,5 +1,5 @@
-# 💫 About Me:
- I'm Andrii, Frontend Developer <br>Learning: Continuously expanding my skills to keep up with the latest in web development.
+# 💫  I'm Andrii, Frontend Developer 
+
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
